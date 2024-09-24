@@ -1,0 +1,8 @@
+1. if not method is spesific then by default get method is used 
+2. form tag has attributes a. action and b. method
+3. action attributes - takes url in which the form data are submitted
+4. method attributes - takes two methods either get or post
+5. get method - takes data to server via url
+6. post method - takes data to server via form data i.e http request body
+7. if the root file id ==s index.php then we don't need to include the file name in the url e.g localhost/
+8. to create own 

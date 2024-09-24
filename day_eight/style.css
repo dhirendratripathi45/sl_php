@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: o;
+
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: rgb(110, 110, 110);
+    padding: 20px;
+    text-align: center;
+    color: #fff0ff;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff0ff;
+}
+
+footer{
+    background-color: rgb(110, 110, 110);
+    color: #fff;
+    width: 100%;
+    height: 100px;
+    text-align: 20px;
+    position: absolute;
+}

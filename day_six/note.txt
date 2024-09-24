@@ -1,0 +1,3 @@
+1. header() - this method/function is use to redirect pages in php
+2. it takes strings as parameter eg. header ("location:<pages_name_with_extension>)
+3. exit() - end the execution of the code further
